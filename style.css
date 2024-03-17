@@ -145,6 +145,11 @@ body {
   margin-top: 16px;
 }
 
+.project .main-content a {
+  /* text-decoration: none; */
+  color: #cccac6
+}
+
 .project .supporting-content {
   display: flex;
   align-items: center;
